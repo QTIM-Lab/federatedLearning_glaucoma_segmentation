@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+*.swp
+*~
+.DS_Store
+
+# Large directories (will be on Hugging Face or excluded)
+data/
+outputs/
+models/
