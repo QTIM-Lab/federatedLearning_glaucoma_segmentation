@@ -1,0 +1,11 @@
+label_path,image_path,dataset_name
+data/drishti/labels/cropped_staple_cd_drishtiGS_063.png,data/drishti/images/cropped_drishtiGS_063.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_038.png,data/drishti/images/cropped_drishtiGS_038.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_017.png,data/drishti/images/cropped_drishtiGS_017.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_026.png,data/drishti/images/cropped_drishtiGS_026.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_006.png,data/drishti/images/cropped_drishtiGS_006.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_079.png,data/drishti/images/cropped_drishtiGS_079.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_050.png,data/drishti/images/cropped_drishtiGS_050.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_002.png,data/drishti/images/cropped_drishtiGS_002.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_005.png,data/drishti/images/cropped_drishtiGS_005.png,drishti
+data/drishti/labels/cropped_staple_cd_drishtiGS_078.png,data/drishti/images/cropped_drishtiGS_078.png,drishti
